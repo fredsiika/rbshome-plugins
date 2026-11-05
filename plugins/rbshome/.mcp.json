@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rbshome": {
+      "type": "http",
+      "url": "https://rbshome.com/api/mcp"
+    }
+  }
+}
