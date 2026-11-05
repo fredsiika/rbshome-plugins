@@ -16,5 +16,5 @@ Turn the user's criteria into an RBSHome lead list.
 Rules:
 
 - Report counts and figures exactly as returned, with their data dates.
-- No sale prices, valuations or offer prices: the data has none.
+- No sale prices: Texas does not disclose them. Land values are appraisal-district (CAD) figures; for offer math on one lead use analyze_deal.
 - If a daily limit is reached, tell the user when it resets and suggest narrowing the filter or counting first.

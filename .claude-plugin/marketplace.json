@@ -1,6 +1,9 @@
 {
   "name": "rbshome",
-  "owner": { "name": "RBS Home Buyers", "email": "contact@rbshome.com" },
+  "owner": {
+    "name": "RBS Home Buyers",
+    "email": "contact@rbshome.com"
+  },
   "metadata": {
     "description": "RBSHome plugins for Claude Code: Dallas and Collin County, TX property leads.",
     "version": "1.0.0"
@@ -9,10 +12,16 @@
     {
       "name": "rbshome",
       "source": "./plugins/rbshome",
-      "description": "Dallas and Collin County, TX property, tax-delinquency and land records from your RBSHome account, plus lead-research skills.",
+      "description": "Off-market real estate leads in Dallas and Collin County, Texas: tax-delinquency, property and land records, deal math and builder matches. Plus lead-research skills.",
       "version": "1.0.0",
       "category": "productivity",
-      "keywords": ["real estate", "tax delinquent", "Dallas", "Collin County", "mcp"]
+      "keywords": [
+        "real estate",
+        "tax delinquent",
+        "Dallas",
+        "Collin County",
+        "mcp"
+      ]
     }
   ]
 }
